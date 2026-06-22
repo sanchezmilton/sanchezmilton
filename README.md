@@ -2,7 +2,7 @@
 
 📍 **Mar del Plata, Argentina → living in Japan** | 💻 **Frontend Developer** | 🚀 **Builder**
 
-I build web apps that work in production — fast load times, real users, minimal incidents. 4+ years shipping for companies and building my own products on the side.
+I build web apps that work in production — fast load times, real users, rock-solid reliability. 4+ years shipping for companies and building my own products on the side.
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
